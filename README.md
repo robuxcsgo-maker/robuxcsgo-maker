@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**robuxcsgo-maker/robuxcsgo-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 Estadísticas
 
-Here are some ideas to get you started:
+### 🔹 Most Used Languages (Top Langs)
+<div align="center">
+  <img src="https://github-readme-stats-jose.vercel.app/api/top-langs/?username=joseah2004&layout=compact&langs_count=10&hide_border=true&theme=gruvbox&hide=xslt,xquery" alt="Top Langs"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔹 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats-jose.vercel.app/api?username=joseah2004&show_icons=true&hide_title=true&hide_border=true&theme=gruvbox" alt="GitHub Stats"/>
+</div>
+
+### 🔹 GitHub Streak
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=joseah2004&hide_border=true&theme=gruvbox" alt="GitHub Streak"/>
+</div>
